@@ -1,0 +1,15 @@
+* {
+    padding: 20px;
+}
+
+/* App-specific styles */
+.app {
+    text-align: center;
+    padding: 20px;
+}
+
+.app-header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
